@@ -1,4 +1,4 @@
-Scholli
+******Scholli******
 
 This is a Scholarship Information system, it is designed to provide scholarship information and assistance to users. Here's an overview of how the system would work:
 
