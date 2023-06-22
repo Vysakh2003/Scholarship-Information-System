@@ -1,3 +1,5 @@
+**SCHOLLI**
+
 This is a Scholarship Information system, it is designed to provide scholarship information and assistance to users. Here's an overview of how the system would work:
 
 - ✔ Search for Scholarships: Users can search for scholarships using various criteria such as age, gender, current study, income, category, state, district, and first graduate status. This allows users to find scholarships that are specifically relevant to their circumstances.
